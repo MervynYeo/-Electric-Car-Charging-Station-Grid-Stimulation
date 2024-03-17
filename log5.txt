@@ -1,0 +1,46 @@
+Iteration :20
+Logged time:2023-10-17 09:51:22
+Availability to be considered full: 1
+Reporting node        Port value    Available Port
+6                        5              1
+
+Adjacent  node        Port value    Available Port
+5                        5              1
+13                       5              1
+
+Available station nearby : 4 ,12 ,20 
+Total communication time(in seconds): 0.000039
+Total Messages send between reporting node and base station: 2
+
+-------------------------------------------------------------------------
+Iteration :43
+Logged time:2023-10-17 09:52:33
+Availability to be considered full: 1
+Reporting node        Port value    Available Port
+42                       5              1
+
+Adjacent  node        Port value    Available Port
+43                       5              1
+35                       5              1
+
+Available station nearby : 28 ,36 ,44 
+Total communication time(in seconds): 0.000013
+Total Messages send between reporting node and base station: 2
+
+-------------------------------------------------------------------------
+Iteration :61
+Logged time:2023-10-17 09:53:29
+Availability to be considered full: 1
+Reporting node        Port value    Available Port
+6                        5              0
+
+Adjacent  node        Port value    Available Port
+5                        5              0
+13                       5              1
+
+Available station nearby : 4 ,12 ,20 
+Total communication time(in seconds): 0.000024
+Total Messages send between reporting node and base station: 2
+
+-------------------------------------------------------------------------
+All stations have closed down for maintenance .
