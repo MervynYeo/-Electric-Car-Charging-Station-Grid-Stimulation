@@ -25,9 +25,5 @@ This project is a simulation of an electric car charging station grid. It can be
 ## Contributors
 - [Mervyn Yeo](https://github.com/MervynYeo)
 
-## License
-[Add your license information here]
 
-## Acknowledgements
-[If applicable, acknowledge any resources or individuals who contributed to the project]
 
